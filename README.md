@@ -1,2 +1,2 @@
 # research
-1. GMB peaks
+1. GBM peaks
